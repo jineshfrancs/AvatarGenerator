@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_02ede7b2fda747383c25c2ebc11cb90d4f10cdda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_55d7cc883188ef95c26f4fdc9e2a72a63cd628d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-7.8.0_17013800cac14245d39070ba2dc6d4a54237d281.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-7.8.0_4f3cb0161a1a89173fb80545f728a4344b16db3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9b66637ff7f50994243ecea7876f9d88fd4437a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-7.8.0_6b585c39b9a8254ef20c30b97f8c626b6be2ff61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_889e51f34b0580f2df67b49ee33685813bcd0c5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-7.8.0_9c50e4e58813a60ff2819c9d1a65ea908ef3bca7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-7.8.0_bf52fd2745e167af7fd27548c1f876bc30c254c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_f6b43de5052e87a3265299748b5c9e28a82021be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-7.8.0_148cda446ef2e972e6efdd7d8685da18f77e59a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_635e1d4075a8d391a0285bebae9098e957c777c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-7.8.0_8bf077e0dd547bd25985011a44cb3ea049057b71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b9f3a5f0038ba4774a16ea6b2dff479b9409ff46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_cad84c81f62cd8969ac3d7504aa8c3419f13f685.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-7.8.0_a4d8e9f6963413170a8819ff1008fca9ec7dcd38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-7.8.0_020b7294beb13182ded65a42fb45488722e462b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-7.8.0_89c78b6c24c15f0b2a87cb2699bf43b53b52ec46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-7.8.0_3cb119e12998a54103a8ca08dfde74f78b136e7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-7.8.0_774e5cef85a78d979327e4ad9e585895e825fafb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_ff233bae302c54a44bcfd1a484b276bb135b23d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_fff2341a2285694dfb19f0cbc1ef5d93e5faabfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-22.2.0_b4d56d7e62773b8211e281eddcef978b16cea69d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-7.8.0_2fd8a0bd56c2c4a7a372a1113cf187b0f051d0ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-7.8.0_b1bb7177841540c2a1f692a62030f15d6b94f432.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_f76a42f51b37111913a1a626c5cea6ee038b282d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e515792f8a1278584a62590e0b011911ca4c2fc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appstate-7.8.0_2e954f6c51913b1f2f98f09caeb0477af503528a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_bd9c6f6e34b1d32b1684807262dc84bedb33256e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-7.8.0_31b72afc1785607e188bacca0a057daac88c3318.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_5fe81d12f93a8d4c23145b98f10b9af3cc189bb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-7.8.0_66055a69e3b5d38f938ece8421e1b9b643f45da4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-7.8.0_684bf14af541f8d8fa822636aaa20bbb29d81994.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-7.8.0_8b81c6649c62788b96fe42bfb838159e92f78aeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_a6ec866e4eeddbdf8ed630a370f22a2e931d6b6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f7d6724b4b46229adb17f8593785ec7ee1fa3ff0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-7.8.0_ac8f200e21d43ad72267de96caa6e27e3abcd84d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\jinesh\Documents\GitHub\AvatarGenerator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-7.8.0_1ad46799dc513a808c311ac3237441496ca5a751.jar" />
+    </item>
+
+</items>
